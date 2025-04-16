@@ -8,11 +8,11 @@ MacGPT is a macOS app that provides a frontend to interact with the ChatGPT 3.5 
 
 To install MacGPT, follow these steps:
 
-1. Clone or download the source code from the [aoenth/MacGPT](https://github.com/aoenth/MacGPT) repository on GitHub.
+1. Clone or download the source code from the [kezipe/MacGPT](https://github.com/kezipe/MacGPT) repository on GitHub.
 2. Open the `MacGPT.xcodeproj` file in Xcode.
 3. Build and run the app in Xcode.
 
-Alternatively, you can download a pre-built binary from the [releases](https://github.com/aoenth/MacGPT/releases) page on GitHub.
+Alternatively, you can download a pre-built binary from the [releases](https://github.com/kezipe/MacGPT/releases) page on GitHub.
 
 ## Usage
 
@@ -25,9 +25,9 @@ To use MacGPT, follow these steps:
 
 ## Credits
 
-MacGPT was created by [aoenth](https://github.com/aoenth) on GitHub. The networking component of this project was based on [ChatGPTSwift](https://github.com/alfianlosari/ChatGPTSwift) by [alfianlosari](https://github.com/alfianlosari) on GitHub.
+MacGPT was created by [kezipe](https://github.com/kezipe) on GitHub. The networking component of this project was based on [ChatGPTSwift](https://github.com/alfianlosari/ChatGPTSwift) by [alfianlosari](https://github.com/alfianlosari) on GitHub.
 
 ## License
 
-MacGPT is released under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](https://github.com/aoenth/MacGPT/blob/main/LICENSE) file for details.
+MacGPT is released under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](https://github.com/kezipe/MacGPT/blob/main/LICENSE) file for details.
 
